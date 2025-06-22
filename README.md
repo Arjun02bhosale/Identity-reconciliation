@@ -38,7 +38,7 @@ Contact {
 
 ### 1. Clone the Repo
 
-git clone https://github.com/your-username/identity-reconciliation.git
+git clone https://github.com/Arjun02bhosale/Identity-reconciliation
 cd identity-reconciliation
 
 
